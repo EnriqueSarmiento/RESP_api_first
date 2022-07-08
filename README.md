@@ -1,3 +1,3 @@
-# REST_sendgrid
+# REST_sAPI
 
-RESP API for sendgrid-mail.
+RESP API first project testing
